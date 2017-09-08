@@ -1,0 +1,13 @@
+#Hugo configuration
+title = "Dynamic Channel Widget Test"
+baseURL = "https:\/\/www.DosDynamic.com"
+languageCode = "en-us"
+theme = "tvpage"
+disablePathToLower = "true"
+enableRobotsTXT = true
+
+[params]
+loginId = "1759031"
+subfolder = ""
+firstpartycookies = true
+cookiedomain = "DosDynamic.com"
